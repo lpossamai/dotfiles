@@ -1,6 +1,0 @@
-*.priv
-*.swp
-plugged
-.config/nvim/plugged/
-.idea
-.config/gh/hosts.yml
